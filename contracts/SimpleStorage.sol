@@ -7,7 +7,7 @@ contract SimpleStorage{
     uint public favnumber ;
      
     function store(uint _favnumber ) public {
-        favnumber = _favnumber ;
+        favnumber = _favnumber ; // test to git
     }
     }
 
